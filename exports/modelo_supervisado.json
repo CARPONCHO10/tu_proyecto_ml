@@ -1,0 +1,20 @@
+{
+  "model_type": "Supervised",
+  "model_name": "Random Forest",
+  "metrics": {
+    "accuracy": 0.9,
+    "precision": 0.9023569023569024,
+    "recall": 0.9,
+    "f1_score": 0.8997493734335841
+  },
+  "current_prediction": {
+    "input": [
+      5.843333333333334,
+      3.0573333333333337,
+      3.7580000000000005,
+      1.1993333333333336
+    ],
+    "output_class": 1,
+    "output_label": "versicolor"
+  }
+}
